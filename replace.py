@@ -14,5 +14,5 @@ def substituir_virgulas_por_ponto_virgula(nome_arquivo):
 
 
 # Exemplo de uso
-nome_arquivo = "TB_PMTFIL_VIVO2_part5.txt"  # Substitua pelo nome do seu arquivo
+nome_arquivo = "nome_do_seu_arquivo.txt"  # Substitua pelo nome do seu arquivo
 substituir_virgulas_por_ponto_virgula(nome_arquivo)
