@@ -43,5 +43,5 @@ def split_file(file_path):
         output_file.close()
 
 if __name__ == '__main__':
-    file_path = 'TB_PMTFIL_VIVO2.csv'
+    file_path = 'nome_do_seu_arquivo.csv'
     split_file(file_path)
